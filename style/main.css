@@ -37,6 +37,7 @@ body{
     border-radius: 8px;
     opacity: 0.8;
     padding: 17px 24px;
+    background-color: white;
 }
 
 /* banner-container */
@@ -434,7 +435,7 @@ body{
 /* support-container */
 
 .support-container{
-    background-image: url("../assets/handshake.png");
+    background-image: linear-gradient(to top right, rgba(0, 0, 0, 0.2) 35%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 40%), url("../assets/handshake.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
