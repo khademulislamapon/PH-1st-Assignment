@@ -344,3 +344,89 @@ body{
     font-weight: 700;
     text-decoration-line: underline;
 }
+
+/* next-target */
+#next-target-container{
+    max-width: 1140px;
+    height: 866px;
+    margin: 0 auto 49px;
+    /* border: 1px solid red; */
+}
+.next-target-section{}
+
+.next-target-content{
+    margin: 0 auto 48px;
+}
+
+.next-target-lists{}
+
+.next-target-list-container{
+    max-width: 1140px;
+    height: 219px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin: 0 0 23px;
+}
+
+.next-target-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1060px;
+    height: 139px;
+    margin: 40px;
+}
+
+.next-target-img{
+    max-width: 94.78px;
+    height: 108px;
+    margin: 15.5px 24px 15.5px 0;
+    /* border: 1px solid red; */
+}
+.next-target-img img{}
+
+.next-target-description{
+    max-width: 941.22px;
+    height: 139px;
+    /* border: 1px solid red; */
+}
+
+.NodeJs{
+    margin: 25px 24px 25px 0;
+    max-width: 143.3px;
+    height: 87.75px;
+}
+.MongoDB{
+    margin: 15px 24px 15px 0;
+    max-width: 108px;
+    height: 108px;
+}
+
+.NodeJs-text{
+    max-width: 892.49px;
+    height: 139px;
+}
+.MongoDB-text{
+    max-width: 928px;
+    height: 139px;
+}
+
+.next-target-description h3{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+.next-target-description p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin: 8px 0 24px;
+}
+.next-target-description a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
